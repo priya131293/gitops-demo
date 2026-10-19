@@ -34,8 +34,8 @@ data:
           border-radius: 20px;
           color: white;
         }
-        .yellow { background: #2ecc71; }
-        .red { background: #3498db; }
+        .yellow { background: #f1c40f; }
+        .red { background: #e74c3c; }
         .purple { background: #9b59b6; }
         .info { color: #bdc3c7; margin-top: 30px; }
       </style>
