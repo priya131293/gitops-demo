@@ -45,8 +45,8 @@ data:
         <h1>GitOps with Argo CD</h1>
         <p style="font-size: 1.3em;">Deployed automatically from GitHub!</p>
         <div>
-          <span class="badge green">Argo CD</span>
-          <span class="badge blue">AKS</span>
+          <span class="badge yellow">Argo CD</span>
+          <span class="badge red">AKS</span>
           <span class="badge purple">Terraform</span>
         </div>
         <div class="info">
